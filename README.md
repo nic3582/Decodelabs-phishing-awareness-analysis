@@ -5,8 +5,8 @@ this are things to check in any massage
 'Pressure to act fast
 Medium
 
-Scammers rush you so you act before you think. Real organisations rarely demand action within hours.
-urgentact nowwithin 24 hoursexpires todayfinal noticeaction requireddo not ignore
+Scammers rush you so you act before you think. Real organisations rarely demand action  within  hours.
+urgentact now within 24 hours expires today final notice action required do not ignore
 
 #Threats and scary alerts
 Medium
